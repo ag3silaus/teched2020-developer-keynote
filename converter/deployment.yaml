@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: application
-        image: docker.pkg.github.com/sap-samples/teched2020-developer-keynote/calculationservice:latest
+        image: docker.pkg.github.com/ag3silaus/teched2020-developer-keynote/calculationservice:latest
         imagePullPolicy: Always # change to pull after testing
         ports:
           - containerPort: 8080
