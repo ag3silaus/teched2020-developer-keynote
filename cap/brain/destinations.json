@@ -9,7 +9,7 @@
                     "Authentication": "NoAuthentication",
                     "ProxyType": "Internet",
                     "Type": "HTTP",
-                    "URL": "https://...-proxyapp.cfapps.eu10.hana.ondemand.com",
+                    "URL": "https://s4mock.c-6be3f57.kyma.shoot.live.k8s-hana.ondemand.com",
                     "HTML5.DynamicDestination": true
                 },
                 {
@@ -18,7 +18,7 @@
                     "Authentication": "NoAuthentication",
                     "ProxyType": "Internet",
                     "Type": "HTTP",
-                    "URL": "https://converter-...cfapps.eu10.hana.ondemand.com/",
+                    "URL": "https://calc-service.c-6be3f57.kyma.shoot.live.k8s-hana.ondemand.com",
                     "HTML5.DynamicDestination": true
                 }
             ]
